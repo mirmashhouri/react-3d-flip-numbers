@@ -1,0 +1,624 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlipNumbers component make snapshot 1`] = `
+<div>
+  <section
+    class="flip-numbers d-flex justify-content-center align-items-center undefined"
+  >
+    <div
+      class="d-table text-start overflow-hidden position-relative z-index-main-view number-class"
+      style="height: 50px;"
+    >
+      <div
+        class="flip-number position-absolute h-100"
+        style="transform: rotateX(-36deg); transition: transform 0.3ms 0ms ease-in-out;"
+      >
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(0deg) translateZ(75px);"
+        >
+          0
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(36deg) translateZ(75px);"
+        >
+          1
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(72deg) translateZ(75px);"
+        >
+          2
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(108deg) translateZ(75px);"
+        >
+          3
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(144deg) translateZ(75px);"
+        >
+          4
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(180deg) translateZ(75px);"
+        >
+          5
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(216deg) translateZ(75px);"
+        >
+          6
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(252deg) translateZ(75px);"
+        >
+          7
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(288deg) translateZ(75px);"
+        >
+          8
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(324deg) translateZ(75px);"
+        >
+          9
+        </div>
+      </div>
+      <div
+        class="flip-number-active d-flex justify-content-center align-items-center text-center 
+        invisible"
+        style="height: 50px;"
+      >
+        1
+      </div>
+    </div>
+    <div
+      class="d-table text-start overflow-hidden position-relative z-index-main-view number-class"
+      style="height: 50px;"
+    >
+      <div
+        class="flip-number position-absolute h-100"
+        style="transform: rotateX(-72deg); transition: transform 0.3ms 0ms ease-in-out;"
+      >
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(0deg) translateZ(75px);"
+        >
+          0
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(36deg) translateZ(75px);"
+        >
+          1
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(72deg) translateZ(75px);"
+        >
+          2
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(108deg) translateZ(75px);"
+        >
+          3
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(144deg) translateZ(75px);"
+        >
+          4
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(180deg) translateZ(75px);"
+        >
+          5
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(216deg) translateZ(75px);"
+        >
+          6
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(252deg) translateZ(75px);"
+        >
+          7
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(288deg) translateZ(75px);"
+        >
+          8
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(324deg) translateZ(75px);"
+        >
+          9
+        </div>
+      </div>
+      <div
+        class="flip-number-active d-flex justify-content-center align-items-center text-center 
+        invisible"
+        style="height: 50px;"
+      >
+        2
+      </div>
+    </div>
+    <div
+      class="d-table text-start overflow-hidden position-relative z-index-main-view number-class"
+      style="height: 50px;"
+    >
+      <div
+        class="flip-number position-absolute h-100"
+        style="transform: rotateX(-108deg); transition: transform 0.3ms 0ms ease-in-out;"
+      >
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(0deg) translateZ(75px);"
+        >
+          0
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(36deg) translateZ(75px);"
+        >
+          1
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(72deg) translateZ(75px);"
+        >
+          2
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(108deg) translateZ(75px);"
+        >
+          3
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(144deg) translateZ(75px);"
+        >
+          4
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(180deg) translateZ(75px);"
+        >
+          5
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(216deg) translateZ(75px);"
+        >
+          6
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(252deg) translateZ(75px);"
+        >
+          7
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(288deg) translateZ(75px);"
+        >
+          8
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(324deg) translateZ(75px);"
+        >
+          9
+        </div>
+      </div>
+      <div
+        class="flip-number-active d-flex justify-content-center align-items-center text-center 
+        invisible"
+        style="height: 50px;"
+      >
+        3
+      </div>
+    </div>
+    <div
+      class="d-table text-start overflow-hidden position-relative z-index-main-view number-class"
+      style="height: 50px;"
+    >
+      <div
+        class="flip-number position-absolute h-100"
+        style="transform: rotateX(-144deg); transition: transform 0.3ms 0ms ease-in-out;"
+      >
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(0deg) translateZ(75px);"
+        >
+          0
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(36deg) translateZ(75px);"
+        >
+          1
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(72deg) translateZ(75px);"
+        >
+          2
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(108deg) translateZ(75px);"
+        >
+          3
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(144deg) translateZ(75px);"
+        >
+          4
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(180deg) translateZ(75px);"
+        >
+          5
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(216deg) translateZ(75px);"
+        >
+          6
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(252deg) translateZ(75px);"
+        >
+          7
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(288deg) translateZ(75px);"
+        >
+          8
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(324deg) translateZ(75px);"
+        >
+          9
+        </div>
+      </div>
+      <div
+        class="flip-number-active d-flex justify-content-center align-items-center text-center 
+        invisible"
+        style="height: 50px;"
+      >
+        4
+      </div>
+    </div>
+    <div
+      class="d-table text-start overflow-hidden position-relative z-index-main-view number-class"
+      style="height: 50px;"
+    >
+      <div
+        class="flip-number position-absolute h-100"
+        style="transform: rotateX(-180deg); transition: transform 0.3ms 0ms ease-in-out;"
+      >
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(0deg) translateZ(75px);"
+        >
+          0
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(36deg) translateZ(75px);"
+        >
+          1
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(72deg) translateZ(75px);"
+        >
+          2
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(108deg) translateZ(75px);"
+        >
+          3
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(144deg) translateZ(75px);"
+        >
+          4
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(180deg) translateZ(75px);"
+        >
+          5
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(216deg) translateZ(75px);"
+        >
+          6
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(252deg) translateZ(75px);"
+        >
+          7
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(288deg) translateZ(75px);"
+        >
+          8
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(324deg) translateZ(75px);"
+        >
+          9
+        </div>
+      </div>
+      <div
+        class="flip-number-active d-flex justify-content-center align-items-center text-center 
+        invisible"
+        style="height: 50px;"
+      >
+        5
+      </div>
+    </div>
+    <span
+      class="flip-non-number"
+    >
+      .
+    </span>
+    <div
+      class="d-table text-start overflow-hidden position-relative z-index-main-view number-class"
+      style="height: 50px;"
+    >
+      <div
+        class="flip-number position-absolute h-100"
+        style="transform: rotateX(0deg); transition: transform 0.3ms 0ms ease-in-out;"
+      >
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(0deg) translateZ(75px);"
+        >
+          0
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(36deg) translateZ(75px);"
+        >
+          1
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(72deg) translateZ(75px);"
+        >
+          2
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(108deg) translateZ(75px);"
+        >
+          3
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(144deg) translateZ(75px);"
+        >
+          4
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(180deg) translateZ(75px);"
+        >
+          5
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(216deg) translateZ(75px);"
+        >
+          6
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(252deg) translateZ(75px);"
+        >
+          7
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(288deg) translateZ(75px);"
+        >
+          8
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(324deg) translateZ(75px);"
+        >
+          9
+        </div>
+      </div>
+      <div
+        class="flip-number-active d-flex justify-content-center align-items-center text-center 
+        invisible"
+        style="height: 50px;"
+      >
+        0
+      </div>
+    </div>
+    <div
+      class="d-table text-start overflow-hidden position-relative z-index-main-view number-class"
+      style="height: 50px;"
+    >
+      <div
+        class="flip-number position-absolute h-100"
+        style="transform: rotateX(0deg); transition: transform 0.3ms 0ms ease-in-out;"
+      >
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(0deg) translateZ(75px);"
+        >
+          0
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(36deg) translateZ(75px);"
+        >
+          1
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(72deg) translateZ(75px);"
+        >
+          2
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(108deg) translateZ(75px);"
+        >
+          3
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(144deg) translateZ(75px);"
+        >
+          4
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(180deg) translateZ(75px);"
+        >
+          5
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(216deg) translateZ(75px);"
+        >
+          6
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(252deg) translateZ(75px);"
+        >
+          7
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(288deg) translateZ(75px);"
+        >
+          8
+        </div>
+        <div
+          class="flip-number-fake position-absolute d-flex justify-content-center align-items-center text-center 
+            "
+          style="height: 50px; transform: rotateX(324deg) translateZ(75px);"
+        >
+          9
+        </div>
+      </div>
+      <div
+        class="flip-number-active d-flex justify-content-center align-items-center text-center 
+        invisible"
+        style="height: 50px;"
+      >
+        0
+      </div>
+    </div>
+  </section>
+</div>
+`;

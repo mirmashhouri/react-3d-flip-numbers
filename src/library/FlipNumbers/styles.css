@@ -1,0 +1,49 @@
+.flip-numbers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flip-numbers .invisible {
+  visibility: hidden;
+}
+.flip-number-container {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+  z-index: var(--z-index-main-view, 1);
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.flip-number {
+  position: absolute;
+  height: 100%;
+  transform-style: preserve-3d;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.flip-number div {
+  -webkit-font-smoothing: antialiased;
+  backface-visibility: hidden;
+}
+.flip-number-fake {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  opacity: .85;
+}
+.flip-number-active {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.flip-shadow{
+  box-shadow: black 3px 0 5px 0px;
+}
